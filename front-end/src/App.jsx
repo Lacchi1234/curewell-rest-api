@@ -2,9 +2,9 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import ViewDoctors from "./components/ViewDoctors"; // Importing the component
-import AddDoctor from "./components/AddDoctor";
-import ViewSpecializations from "./components/Specializations";
-import ViewTodaysSurgery from "./components/TodaysSurgery";
+import AddDoctor from "./components/AddDoctors";
+import ViewSpecializations from "./components/ViewSpecialization";
+import ViewTodaysSurgery from "./components/TodaySurgery";
 import {BrowserRouter as Router, Link, Routes, Route } from "react-router-dom";
 
 
